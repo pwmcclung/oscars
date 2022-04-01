@@ -1,2 +1,2 @@
 # oscars
-write a conditional function for give Leo an oscar
+write a conditional function for giving Leo an oscar
